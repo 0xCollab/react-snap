@@ -1,3 +1,6 @@
+#1.23.1.0
+ - Disabled on high finding. 
+
 # 1.23.0
 
 - Potential fix for #301 illegal operation on a directory (#317)
