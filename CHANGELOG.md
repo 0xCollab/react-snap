@@ -3,6 +3,7 @@
 
 # 1.23.0
 
+
 - Potential fix for #301 illegal operation on a directory (#317)
 - Disable ServiceWorker (#315)
 
